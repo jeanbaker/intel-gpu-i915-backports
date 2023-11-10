@@ -332,7 +332,7 @@
 #if !(SUSE_RELEASE_VERSION_IS_GEQ(1,15,3,0))
 
 /* Need to check the need of panel_orientatio_quirks */
-#define BPM_DRM_GET_PANEL_ORIENTATION_QUIRK_DONT_EXPORT
+// #define BPM_DRM_GET_PANEL_ORIENTATION_QUIRK_DONT_EXPORT
 #endif
 
 /*
